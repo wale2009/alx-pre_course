@@ -1,1 +1,2 @@
-##Git
+##GIT
+Introduction to github
